@@ -15,7 +15,7 @@ uses
   UTF8Process,
   LCLIntf, LCLType,
   clipbrd, //clipboard
-  fpspreadsheet, fpsallformats, //export ods /xls
+  fpspreadsheet, fpstypes, fpsallformats, //export ods /xls
   inifiles,csvdocument;
 
 type
